@@ -1,0 +1,73 @@
+h1, h2, h3, h4, h5, h6, ul.tabs li a, .leftNav ul li a, .stats span, .userLink, .errorPage p, .ui-dialog .ui-dialog-title
+{
+	font-family: 'Cuprum',sans-serif,Aspire;
+	font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	padding-bottom: 12px;
+}
+
+h1 { font-size: 24px; }
+h2 { font-size: 22px; }
+h3 { font-size: 20px; }
+h4 { font-size: 18px; }
+h5 { font-size: 16px; }
+h6 { font-size: 14px; }
+
+a
+{
+	text-decoration : none;
+}
+
+
+/*------------------- table style------------------*/
+.tableStatic thead td {
+    background: -moz-linear-gradient(center top , #FAFAFA 0%, #EFEFEF 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #D5D5D5;
+    border-left: 1px solid #D5D5D5;
+    color: #878787;
+    font-size: 11px;
+    padding: 3px 0 2px;
+    text-align: center;
+}
+
+.tableStatic thead td:first-child {
+    border-left: medium none;
+}
+
+.tableStatic tbody tr {
+    border-top: 1px solid #E7E7E7;
+}
+
+.tableStatic tbody td {
+    border-left: 1px solid #E7E7E7;
+    padding: 8px 10px;
+    vertical-align: middle;
+}
+
+.tableStatic tbody td:first-child {
+    border-left: medium none;
+}
+.tableStatic tbody tr:hover { background: #fff; }
+
+.search
+{
+	margin-left: 100px;
+}
+
+/*------------------- Buttons ---------------*/
+input[type="submit"], input[type="reset"], input[type="button"], button, .button {
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+    cursor: pointer;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 12px;
+    padding: 7px 14px;
+}
+
+blockquote { border : 1px solid #d5d5d5;  padding: 15px 10px; quotes: "\201C" "\201D"; background: #fafafa; text-align: center; font-style: italic; font-size: 12px; border-left: 4px solid #d5d5d5; }
+blockquote:before { content: open-quote; font-weight: bold; }
+blockquote:after { content: close-quote; font-weight: bold; }

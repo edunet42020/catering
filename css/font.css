@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'HelveticaNeue';
+	src: url('../fonts/HelveticaNeue.eot');
+	src: local('HelveticaNeue'), url('../fonts/HelveticaNeue.woff') format('woff'), url('../fonts/HelveticaNeue.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cuprum';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Cuprum'), local('Cuprum-Regular'), url(../fonts/sp1_LTSOMWWV0K5VTuZzvQ.woff) format('woff'), url('../fonts/cuprum.ttf') format('truetype');
+} 

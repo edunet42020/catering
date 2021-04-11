@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822ec61d-c2bb-470c-86cd-f2986e6fada9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="catering" />
+  </component>
+  <component name="ProjectId" id="1i58VBkbGWKvtxCQmAfCHpd9beL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822ec61d-c2bb-470c-86cd-f2986e6fada9" name="Default Changelist" comment="" />
+      <created>1601186113944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601186113944</updated>
+      <workItem from="1601186115582" duration="7874000" />
+      <workItem from="1601280782023" duration="1966000" />
+      <workItem from="1601315689578" duration="4231000" />
+      <workItem from="1601352078595" duration="154000" />
+      <workItem from="1601352313261" duration="1954000" />
+      <workItem from="1601384430752" duration="3991000" />
+      <workItem from="1601542386741" duration="905000" />
+      <workItem from="1601558461215" duration="4818000" />
+      <workItem from="1601576388281" duration="636000" />
+      <workItem from="1601616241355" duration="239000" />
+      <workItem from="1601902235462" duration="7741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601616484753">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1601616484753" />
+    <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1601352232972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601352232972" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1601616444727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1601616444727" />
+    <state x="513" y="204" key="NewPhpClassDialog" timestamp="1601188247618">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="204" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1601188247618" />
+    <state x="517" y="301" key="NewPhpFileDialog" timestamp="1601907037679">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="301" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1601907037679" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1601902236490">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601902236490" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1601387585719">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601387585719" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601352106810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1601352106810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/view_rawitem.php</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
