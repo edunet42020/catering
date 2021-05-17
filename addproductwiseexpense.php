@@ -38,8 +38,8 @@ include_once("left.php");
          <select  name="oid" style="width:100%">
                     <option>--select order--</option>
                 <?php
-                    $date=date("yy-m-d");
-                    //echo $date;
+                    $date = date("Y-m-d", strtotime("-100 year", strtotime($date)));
+                    
                     $selectorder="select * from receivedorder where flag=0 and odate > '$date'";
                     $objorder=mysqli_query($conn,$selectorder);
                     $var=1;

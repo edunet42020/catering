@@ -127,8 +127,11 @@ for($i=1;$i<$var;$i++)
 $prepareqtygram=$prepareorderraw%1000;
 $prepareorderraw=$prepareorderraw-$prepareqtygram;
 $prepareqtykg=$prepareorderraw/1000;
-    $insertprepareorder="insert into prepareorder values(Null,$orderproductid,$prepareqtykg,$prepareqtygram)";
-if(mysqli_query($conn,$insertprepareorder))
+$date = date("Y-m-d", strtotime("-100 year", strtotime($date)));
+                    
+    //$insertprepareorder="insert into prepareorder values(Null,$orderproductid,$prepareqtykg,$prepareqtygram,'$date')";
+    echo $insertprepareorder;
+    if(mysqli_query($conn,$insertprepareorder))
 {
 
 }
