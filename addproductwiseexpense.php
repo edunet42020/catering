@@ -112,7 +112,6 @@ if(isset($_REQUEST['btn']))
         $expensecost=$_REQUEST["exp".$v];
         $v++;
         $insert="insert into prepareorderexpense values(Null,$expenseid,$expensecost,$prepareorderid)";
-        //echo $insert;
         mysqli_query($conn,$insert);
 
     }

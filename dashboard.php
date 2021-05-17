@@ -23,11 +23,9 @@ include_once("header.php");
 include_once("left.php");
 ?>
 <div class="wrapper">
-    <!-- Left navigation -->
     <?php
     include_once("detail.php");
     ?>
-<!-- Footer -->
 <?php
     include_once("footer.php");
 ?>

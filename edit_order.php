@@ -42,7 +42,7 @@ include_once("left.php");
 
 
                             <?php
-                            $pid=$result['pid'];
+                            $pid=$result['productid'];
                             $select="select * from product where pid=$pid";
                            // echo $select;
                             $ob=mysqli_query($conn,$select);

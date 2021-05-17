@@ -72,8 +72,8 @@ include_once("left.php");
                                 <td><?php echo $result['date']; ?></td>
                                 <td><?php echo $result['ocost']; ?></td>
                                 <td STYLE="text-align : center">
-                                    <a href="edit_order.php?oid=<?php echo $result['oid'];?>" class="btn14"><img src = "images/edit1.png" title = "Edit"></a>
-                                    <a href="delete_order.php?oid=<?php echo $result['oid'];?>" class="btn14"><img src = "images/delete.png" title = "follow_up"></a>
+                                    <a href="edit_order.php?oid=<?php echo $result[0];?>" class="btn14"><img src = "images/edit1.png" title = "Edit"></a>
+                                    <a href="delete_order.php?oid=<?php echo $result[0];?>" class="btn14"><img src = "images/delete.png" title = "follow_up"></a>
                                 </td>
                             </tr>
 
